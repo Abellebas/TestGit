@@ -10,5 +10,7 @@ public class Adding {
 
 		System.out.println(5+"master");
 		System.out.println(4);
+		
+		System.out.println("added ");
 	}
 }
