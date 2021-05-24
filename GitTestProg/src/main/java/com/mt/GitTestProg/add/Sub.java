@@ -1,4 +1,4 @@
-package com.mt.GitTestProg.subract;
+package com.mt.GitTestProg.add;
 
 public class Sub {
 	public static void main(String[] args) {
