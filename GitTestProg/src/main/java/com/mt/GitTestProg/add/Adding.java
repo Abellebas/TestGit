@@ -7,7 +7,6 @@ public class Adding {
 		
 		System.out.println("In branch chennai");
 		System.out.println(3);
-		int a = 9, b = 8;
-		System.out.println(a+b);
+
 	}
 }
